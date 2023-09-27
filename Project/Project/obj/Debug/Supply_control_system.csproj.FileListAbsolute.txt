@@ -1,0 +1,48 @@
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Images\admin.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Images\client1.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Images\client2.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Images\client3.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Images\logic1.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Images\logic2.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Images\logo.jpg
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Images\manager1.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Images\myLogo.jpg
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Images\logo.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Images\calendarDark.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Images\calendarWhite.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Supply control system.exe.config
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Supply control system.exe
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\Supply control system.pdb
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\CaptchaGenerator.dll
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\ShadowEffect.dll
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\SpecialFormLibrary.dll
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\CaptchaGenerator.pdb
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\ShadowEffect.pdb
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Debug\SpecialFormLibrary.pdb
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Admin.FormChangeAccounts.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Admin.FormHistoryAuthentication.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Admin.FormAddAccounts.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Admin.FormManageProducts.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Admin.FormManageAccounts.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Admin.MenuAdmin.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.FormSettings.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Client.FormSelectShipment.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Client.FormSelectProduct.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.FormMessage.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.FormRegistration.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.FormAuthorization.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Client.FormCreateOrder.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Client.FormOrdersClient.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Client.MenuClient.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Logistician.FormManageShipments.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Logistician.FormAllOrders.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Logistician.MenuLogistician.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Manager.FormSupplyPlane.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Manager.FormOrders.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Forms.Manager.MenuManager.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.Properties.Resources.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.csproj.GenerateResource.cache
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.csproj.CoreCompileInputs.cache
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply_control_system.csproj.CopyComplete
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply control system.exe
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Debug\Supply control system.pdb

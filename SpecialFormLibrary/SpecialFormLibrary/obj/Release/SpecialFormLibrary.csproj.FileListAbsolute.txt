@@ -1,0 +1,12 @@
+E:\колледж\4 курс\УП 02.01\6\SpecialFormLibrary\SpecialFormLibrary\bin\Release\SpecialFormLibrary.dll
+E:\колледж\4 курс\УП 02.01\6\SpecialFormLibrary\SpecialFormLibrary\bin\Release\SpecialFormLibrary.pdb
+E:\колледж\4 курс\УП 02.01\6\SpecialFormLibrary\SpecialFormLibrary\obj\Release\SpecialFormLibrary.csproj.CoreCompileInputs.cache
+E:\колледж\4 курс\УП 02.01\6\SpecialFormLibrary\SpecialFormLibrary\obj\Release\SpecialFormLibrary.dll
+E:\колледж\4 курс\УП 02.01\6\SpecialFormLibrary\SpecialFormLibrary\obj\Release\SpecialFormLibrary.pdb
+E:\колледж\4 курс\УП 02.01\6\SpecialFormLibrary\SpecialFormLibrary\obj\Release\SpecialFormLibrary.csprojAssemblyReference.cache
+D:\колледж\4 курс\УП 02.01\6\SpecialFormLibrary\SpecialFormLibrary\bin\Release\SpecialFormLibrary.dll
+D:\колледж\4 курс\УП 02.01\6\SpecialFormLibrary\SpecialFormLibrary\bin\Release\SpecialFormLibrary.pdb
+D:\колледж\4 курс\УП 02.01\6\SpecialFormLibrary\SpecialFormLibrary\obj\Release\SpecialFormLibrary.csproj.AssemblyReference.cache
+D:\колледж\4 курс\УП 02.01\6\SpecialFormLibrary\SpecialFormLibrary\obj\Release\SpecialFormLibrary.csproj.CoreCompileInputs.cache
+D:\колледж\4 курс\УП 02.01\6\SpecialFormLibrary\SpecialFormLibrary\obj\Release\SpecialFormLibrary.dll
+D:\колледж\4 курс\УП 02.01\6\SpecialFormLibrary\SpecialFormLibrary\obj\Release\SpecialFormLibrary.pdb

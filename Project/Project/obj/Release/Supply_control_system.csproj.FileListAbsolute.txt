@@ -1,0 +1,100 @@
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\admin.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\client1.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\client2.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\client3.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\logic1.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\logic2.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\logo.jpg
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\manager1.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\myLogo.jpg
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\logo.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\calendarDark.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\calendarWhite.png
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Images\logo.ico
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Supply control system.exe.config
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Supply control system.exe
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\Supply control system.pdb
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\CaptchaGenerator.dll
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\ShadowEffect.dll
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\SpecialFormLibrary.dll
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\CaptchaGenerator.pdb
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\ShadowEffect.pdb
+E:\колледж\4 курс\УП 02.01\5\Project\Project\bin\Release\SpecialFormLibrary.pdb
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Admin.FormChangeAccounts.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Admin.FormHistoryAuthentication.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Admin.FormAddAccounts.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Admin.FormManageProducts.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Admin.FormManageAccounts.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Admin.MenuAdmin.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.FormSettings.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Client.FormSelectShipment.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Client.FormSelectProduct.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.FormMessage.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.FormRegistration.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.FormAuthorization.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Client.FormCreateOrder.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Client.FormOrdersClient.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Client.MenuClient.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Logistician.FormManageShipments.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Logistician.FormAllOrders.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Logistician.MenuLogistician.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Manager.FormSupplyPlane.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Manager.FormOrders.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Forms.Manager.MenuManager.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.Properties.Resources.resources
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.csproj.GenerateResource.cache
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.csproj.CoreCompileInputs.cache
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.csproj.CopyComplete
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply control system.exe
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply control system.pdb
+E:\колледж\4 курс\УП 02.01\5\Project\Project\obj\Release\Supply_control_system.csprojAssemblyReference.cache
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\admin.png
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\client1.png
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\client2.png
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\client3.png
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\logic1.png
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\logic2.png
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\logo.jpg
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\manager1.png
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\myLogo.jpg
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\logo.png
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\calendarDark.png
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\calendarWhite.png
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Images\logo.ico
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Supply control system.exe.config
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Supply control system.exe
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\Supply control system.pdb
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\CaptchaGenerator.dll
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\ShadowEffect.dll
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\SpecialFormLibrary.dll
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\CaptchaGenerator.pdb
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\ShadowEffect.pdb
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\bin\Release\SpecialFormLibrary.pdb
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.csprojAssemblyReference.cache
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Admin.FormChangeAccounts.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Admin.FormHistoryAuthentication.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Admin.FormAddAccounts.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Admin.FormManageProducts.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Admin.FormManageAccounts.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Admin.MenuAdmin.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.FormSettings.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Client.FormSelectShipment.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Client.FormSelectProduct.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.FormMessage.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.FormRegistration.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.FormAuthorization.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Client.FormCreateOrder.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Client.FormOrdersClient.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Client.MenuClient.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Logistician.FormManageShipments.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Logistician.FormAllOrders.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Logistician.MenuLogistician.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Manager.FormSupplyPlane.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Manager.FormOrders.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Forms.Manager.MenuManager.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.Properties.Resources.resources
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.csproj.GenerateResource.cache
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.csproj.CoreCompileInputs.cache
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply_control_system.csproj.CopyComplete
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply control system.exe
+E:\колледж\4 курс\УП 02.01\7\Supply_Control_System\Project\Project\obj\Release\Supply control system.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Supply_control_system.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="backgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">204, 155, 83</Value>
+    </Setting>
+    <Setting Name="textColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">119, 65, 48</Value>
+    </Setting>
+    <Setting Name="labelColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">253, 230, 158</Value>
+    </Setting>
+    <Setting Name="selectColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">250, 236, 111</Value>
+    </Setting>
+    <Setting Name="login" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="connectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source = ADCLG1; Initial catalog = Kostin; Integrated Security = True</Value>
+    </Setting>
+    <Setting Name="formSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="saveAuth" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

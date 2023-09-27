@@ -1,0 +1,6 @@
+E:\колледж\4 курс\УП 02.01\6\CaptchaGenerator\CaptchaGenerator\bin\Debug\CaptchaGenerator.dll
+E:\колледж\4 курс\УП 02.01\6\CaptchaGenerator\CaptchaGenerator\bin\Debug\CaptchaGenerator.pdb
+E:\колледж\4 курс\УП 02.01\6\CaptchaGenerator\CaptchaGenerator\obj\Debug\CaptchaGenerator.csprojAssemblyReference.cache
+E:\колледж\4 курс\УП 02.01\6\CaptchaGenerator\CaptchaGenerator\obj\Debug\CaptchaGenerator.csproj.CoreCompileInputs.cache
+E:\колледж\4 курс\УП 02.01\6\CaptchaGenerator\CaptchaGenerator\obj\Debug\CaptchaGenerator.dll
+E:\колледж\4 курс\УП 02.01\6\CaptchaGenerator\CaptchaGenerator\obj\Debug\CaptchaGenerator.pdb

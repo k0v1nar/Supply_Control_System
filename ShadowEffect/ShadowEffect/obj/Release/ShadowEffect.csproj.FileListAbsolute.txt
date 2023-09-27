@@ -1,0 +1,5 @@
+E:\колледж\4 курс\УП 02.01\6\ShadowEffect\ShadowEffect\bin\Release\ShadowEffect.dll
+E:\колледж\4 курс\УП 02.01\6\ShadowEffect\ShadowEffect\bin\Release\ShadowEffect.pdb
+E:\колледж\4 курс\УП 02.01\6\ShadowEffect\ShadowEffect\obj\Release\ShadowEffect.csproj.CoreCompileInputs.cache
+E:\колледж\4 курс\УП 02.01\6\ShadowEffect\ShadowEffect\obj\Release\ShadowEffect.dll
+E:\колледж\4 курс\УП 02.01\6\ShadowEffect\ShadowEffect\obj\Release\ShadowEffect.pdb
